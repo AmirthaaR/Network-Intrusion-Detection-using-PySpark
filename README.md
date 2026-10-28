@@ -50,8 +50,6 @@ For the deduplicated Random Forest test split, 44,562 records were evaluated:
 - Correct predictions: 44,561
 - Incorrect predictions: 8
 
-*Note: Verify these counts against the saved notebook output before publishing. The reported confusion matrix totals 44,562 records, with 8 errors.*
-
 ## Feature Importance
 The leading features in the initial Random Forest model included:
 - Fwd_Packet_Length_Max
@@ -83,4 +81,4 @@ Feature importance indicates model reliance, not causation.
 - Investigate feature scaling and feature-selection strategies.
 
 ## Author
-Developed as a practical big-data machine learning project using PySpark and Spark MLlib.
+AMIRTHAA R
